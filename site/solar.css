@@ -49,6 +49,12 @@ body{
     padding: .7rem;
     width: 120px;
 }
+.btn:hover {
+  background-color: #1f4121;
+}
+li a:hover{
+    color: black;
+}
 .b1{
      margin-left: 1rem;
 }
